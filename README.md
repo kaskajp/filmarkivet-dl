@@ -1,5 +1,9 @@
 # filmarkivet-dl
 
+⚠️ This repository has been moved to [git.4z.nu/jonas/filmarkivet-dl](https://git.4z.nu/jonas/filmarkivet-dl)
+
+---
+
 Downloads all videos from a given category page on [filmarkivet.se](https://www.filmarkivet.se/) using [svtplay-dl](https://github.com/spaam/svtplay-dl).
 
 Automatically paginates through all category pages, deduplicates URLs, and supports resuming interrupted sessions via a seen-file.
